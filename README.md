@@ -1,2 +1,2 @@
-# MyRecipes
-Amazing Recipes
+# MyRecipes:Dal Chawal
+Amazing Recipe
